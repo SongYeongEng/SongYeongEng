@@ -1,7 +1,7 @@
 
 👋 Hi there! I'm Yeong, a dynamic and results-driven and self-driven to work, front-end developer with a passion for creating stunning and user-friendly websites 🌐. As an aspiring web designer, I strive to craft visually compelling and interactive web experiences that captivate users and drive engagement 🎨.
 
-🚀 With a weak foundation in HTML, CSS, and JavaScript, I have honed my skills in developing responsive, scalable, and accessible websites that meet the satisfactory quality standards currently 💻. I am also not that proficient in using popular front-end frameworks such as Reactto build dynamic and robust web applications 🌟.
+🚀 With a weak foundation in HTML, CSS, and JavaScript, I have honed my skills in developing responsive, scalable, and accessible websites that meet the satisfactory quality standards currently 💻. I am also not that proficient in using popular front-end frameworks such as React to build dynamic and robust web applications 🌟.
 
 🏆 Throughout my academic and professional journey, I did not have garnered several accolades and achievements yet🏅. But i have vision on how these experiences will only helped me build a solid technical foundation but also sharpened my problem-solving, collaboration, and communication skills 🤝.
 
